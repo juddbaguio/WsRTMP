@@ -12,3 +12,6 @@ go get github.com/juddbaguio/WsRTMP
 # Usage
 
 Coming soon...
+
+# Next step(s)
+## Customized ffmpeg arguments

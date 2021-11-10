@@ -4,6 +4,11 @@
 The code is based from [chuabingquan](https://github.com/chuabingquan)'s work: [pxy](https://github.com/chuabingquan/pxy).
 The main intent of this library is to provide portability for those who have the same project (able to stream through websockets) in mind.
 
+# Installation
+```bash
+go get github.com/juddbaguio/WsRTMP
+```
+
 # Usage
 
 Coming soon...
